@@ -1,0 +1,17 @@
+    	                 start
+                     
+                sec1 ---input name &bid
+
+        
+        Add name & bid into a dict as key and value pair
+
+                
+                check if any max bidders are there
+
+            
+            yes                                        no
+
+        clear the screen,                        find the highest bid
+        then go to (sec1)                               in dict
+                                                    
+                                            print winner name and highest bid
