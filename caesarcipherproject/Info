@@ -1,0 +1,7 @@
+caesar cipher:
+
+* it's a technique to encrypt a message.
+* it will give some encrypted text rather than original or normal text msg that we sent someone.
+* The encrypted text is called cipher text.
+
+it shifts the alphabets inorder to make it like encrypted.
