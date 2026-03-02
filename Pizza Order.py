@@ -32,5 +32,3 @@ if Cheese=='Y' or Cheese=='y':
     print("Here is your pizza, and the bill is",Bill)
 else:
     print("Here is your pizza, and the bill is",Bill)
-
-print('hi')
